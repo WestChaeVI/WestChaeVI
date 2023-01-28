@@ -1,7 +1,7 @@
 ## Welcome to West Chae VI 👋
 
 <div align=center>
-	<h3>This is my place for self-improvement.</h3>
+	<h3>This is my place for self-development.</h3>
 	<p>✨ Thx for comming ✨</p>
 </div>
 
