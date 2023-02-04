@@ -1,4 +1,4 @@
-## Welcome to West Chae VI 👋
+## Welcome to West Chae VI 
 
 <div align=center>
 	<h3>This is my place for self-development.</h3>
