@@ -1,10 +1,19 @@
-## Welcome to West Chae VI 
+
+<div align='center'>
+  <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+</div>
 
 <div align=center>
 	<a href="https://github.com/WestChaeVI"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWestChaeVI&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-	<h3>This is my place for self-development.</h3>
-	<p>✨ Thx for comming ✨</p>
 </div>
+
+## Now studying    
+
++ Diffusion model    
++ Text-to-Image     
++ Segmentation    
+
 
 <!--
 **WestChaeVI/WestChaeVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
