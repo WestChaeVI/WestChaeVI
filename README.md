@@ -10,9 +10,10 @@
 
 ## Now studying    
 
++ Segmentation  
 + Diffusion model    
 + Text-to-Image     
-+ Segmentation    
+  
 
 
 <!--
