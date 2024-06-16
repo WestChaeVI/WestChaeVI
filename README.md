@@ -10,9 +10,9 @@
 
 ## Now studying    
 
-+ Segmentation  
++ Virtual Try-On  
 + Diffusion model    
-+ Text-to-Image     
++ Image-to-Video    
   
 
 
