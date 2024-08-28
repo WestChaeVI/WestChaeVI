@@ -12,8 +12,13 @@
 
 + Virtual Try-On  
 + Diffusion model    
-+ Image-to-Video    
++ Image-to-Video      
+
+![WestChaeVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestChaeVI&theme=shadow_red&show_icons=true)
   
+
+
+
 
 
 <!--
