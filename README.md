@@ -16,25 +16,23 @@
 
 ![WestChaeVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestChaeVI&theme=shadow_red&show_icons=true&text_color=f1f1eb)     
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=ViViD-train&theme=shadow_red&show_owner=true&text_color=f1f1eb)](https://github.com/WestChaeVI/ViViD-train) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=Face_Skin_AI&theme=shadow_red&show_owner=true&text_color=f1f1eb)](https://github.com/WestChaeVI/Face_Skin_AI) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=GANs&theme=shadow_red&show_owner=true&text_color=f1f1eb)](https://github.com/WestChaeVI/GANs) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=Attention-based-semantic_segmentation&theme=shadow_red&show_owner=true&text_color=f1f1eb)](https://github.com/WestChaeVI/Attention-based-semantic_segmentation) |       
+
 
 
 <td>
 <a href="https://github.com/WestChaeVI/ViViD-train">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=ViViD-train&theme=shadow_red&show_owner=true&text_color=f1f1eb&card_width=14" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=ViViD-train&theme=shadow_red&show_owner=true&text_color=f1f1eb" />
 </a>
 <a href="https://github.com/WestChaeVI/Face_Skin_AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=Face_Skin_AI&theme=shadow_red&show_owner=true&text_color=f1f1eb&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=Face_Skin_AI&theme=shadow_red&show_owner=true&text_color=f1f1eb" />
 </a>
 </td>
 <td>
-<a href="https://github.com/WestChaeVI/ViViD-train">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=ViViD-train&theme=shadow_red&show_owner=true&text_color=f1f1eb&layout=compact" />
+<a href="https://github.com/WestChaeVI/GANs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=GANs&theme=shadow_red&show_owner=true&text_color=f1f1eb" />
 </a>
-<a href="https://github.com/WestChaeVI/Face_Skin_AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=Face_Skin_AI&theme=shadow_red&show_owner=true&text_color=f1f1eb&layout=compact" />
+<a href="https://github.com/WestChaeVI/Attention-based-semantic_segmentation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=Attention-based-semantic_segmentation&theme=shadow_red&show_owner=true&text_color=f1f1eb" />
 </a>
 </td>
   
