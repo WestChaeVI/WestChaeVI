@@ -14,7 +14,9 @@
 + Diffusion model    
 + Image-to-Video      
 
-![WestChaeVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestChaeVI&theme=shadow_red&show_icons=true)
+![WestChaeVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestChaeVI&theme=shadow_red&show_icons=true)     
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=ViViD-train&theme=shadow_red&show_owner=true)](https://github.com/WestChaeVI/ViViD-train)
   
 
 
