@@ -10,35 +10,9 @@
 
 ## Research Interest    
 
-+ Virtual Try-On  
 + Diffusion model    
-+ Image-to-Video      
-
-![WestChaeVI's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestChaeVI&theme=shadow_red&show_icons=true&text_color=f1f1eb)     
-
- 
-
-
-<td>
-<a href="https://github.com/WestChaeVI/ViViD-train">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=ViViD-train&theme=shadow_red&show_owner=true&text_color=f1f1eb" />
-</a>
-<a href="https://github.com/WestChaeVI/Face_Skin_AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=Face_Skin_AI&theme=shadow_red&show_owner=true&text_color=f1f1eb" />
-</a>
-</td>
-<td>
-<a href="https://github.com/WestChaeVI/GANs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=GANs&theme=shadow_red&show_owner=true&text_color=f1f1eb" />
-</a>
-<a href="https://github.com/WestChaeVI/Attention-based-semantic_segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WestChaeVI&repo=Attention-based-semantic_segmentation&theme=shadow_red&show_owner=true&text_color=f1f1eb" />
-</a>
-</td>
-  
-
-
-
++ Image-to-Video
++ Video gneration     
 
 <!--
 **WestChaeVI/WestChaeVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
