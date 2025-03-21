@@ -10,7 +10,7 @@
 
 ## Research Interest    
 
-+ Diffusion model    
++ Diffusion models    
 + Image-to-Video
 + Video gneration     
 
